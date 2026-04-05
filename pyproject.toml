@@ -1,7 +1,7 @@
 [project]
 name = "ComfyUI_Promptfix"
 description = "A real-time bidirectional bridge between Adobe Photoshop and ComfyUI for seamless image generation and editing directly in your layer stack."
-version = "1.0.0"
+version = "1.0.1"
 license = "MIT" 
 # classifiers = [
 #     # For OS-independent nodes (works on all operating systems)
